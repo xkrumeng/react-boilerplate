@@ -53,6 +53,6 @@ module.exports = {
 
     // 在同一个作用域中禁止多次重复定义
     "no-redeclare": 1,
-
+    "react/prop-types": 0
   }
 };
